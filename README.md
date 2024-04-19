@@ -10,5 +10,5 @@ https://www.kaggle.com/datasets/alexteboul/english-premier-league-logo-detection
 * My trained model
 
 ### Preview:
-![recognition](https://github.com/melihdata/clubrecognition/assets/149634444/e43e1b93-c6b9-4098-857e-278014b62339 | width=100)
+https://imgur.com/a/pCTtCms
 
